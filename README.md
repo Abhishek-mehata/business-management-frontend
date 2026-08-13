@@ -195,3 +195,13 @@ src/
 ├── App.css
 ├── index.css
 └── main.jsx
+```
+
+---
+
+# 👨‍💻 Author
+
+**Abhishek Mehata**
+
+GitHub:
+https://github.com/Abhishek-mehata
